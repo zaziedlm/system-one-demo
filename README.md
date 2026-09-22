@@ -112,4 +112,4 @@ print(response.answers)
 ## 参考資料
 
 - [TypeSafe Python SDK 公式ドキュメント](https://docs.typesafe.ai/sdk/python)
-- [TypeSafe Python SDK ソースコード](https://github.com/TypeSafe-AI/typesafe-python)
+- [TypeSafe Python SDK ソースコード](https://github.com/typesafe-ai/typesafe-sdk-python)
